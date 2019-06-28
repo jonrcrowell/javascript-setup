@@ -25,6 +25,6 @@
     "lint": "eslint \"src/**/*.{js,jsx}\" --quiet",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Brian Holt <btholt+complete-intro-to-react@gmail.com>",
+  "author": "Jon Crowell",
   "license": "Apache-2.0"
 }
