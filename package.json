@@ -1,10 +1,9 @@
 {
-  "name": "complete-intro-to-react-v5",
+  "name": "awesome-software",
   "version": "1.0.0",
-  "description": "the Complete Intro to React, v5",
+  "description": "code that will change the world for the better",
   "main": "src/App.js",
   "dependencies": {
-    "@frontendmasters/pet": "^1.0.3",
     "react": "^16.8.4",
     "react-dom": "^16.8.4"
   },
